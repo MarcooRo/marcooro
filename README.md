@@ -36,11 +36,11 @@
 
 | Area | Tecnologie |
 |---|---|
-| **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio" height="40"> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio" height="40"> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,html,css" height="40"> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,php,laravel" height="40"> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma" height="40"> |
-| **Cloud e DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,cloudflare,githubactions,linux,git" height="40"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,php" height="40"> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" height="40"> |
+| **Cloud e DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,cloudflare,githubactions" height="40"> |
 | **AI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111735?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 | **Design e strumenti** | <img src="https://skillicons.dev/icons?i=figma,github,postman,vscode" height="40"> |
 
