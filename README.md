@@ -1,12 +1,12 @@
 # Marco Romano
 
-**Sviluppo software su misura per le aziende** · Web, mobile, AI
+**Sviluppo software su misura per PMI** · Web, mobile, Automazioni, AI
+
+Sviluppo il software che serve al business delle aziende: le piattaforme su cui lavorano ogni giorno e i tool che risolvono un processo specifico. Ne curo anche la gestione nel tempo e affianco le aziende nelle scelte tecniche.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TUO-PROFILO)
 [![Sito](https://img.shields.io/badge/Sito-000000?style=flat&logo=googlechrome&logoColor=white)](https://TUO-SITO.it)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcoromanoweb@gmail.com)
-
-Sviluppo il software che serve al business delle aziende: le piattaforme su cui lavorano ogni giorno e i tool che risolvono un processo specifico. Ne curo anche la gestione nel tempo e affianco le aziende nelle scelte tecniche.
 
 ## Servizi
 
