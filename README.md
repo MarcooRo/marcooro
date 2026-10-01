@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TUO-PROFILO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/marco-romano-58b16335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://TUO-SITO.it"><img src="https://img.shields.io/badge/Sito-111735?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sito"></a>
   <a href="mailto:marcoromanoweb@gmail.com"><img src="https://img.shields.io/badge/Email-5EEAD4?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"></a>
 </p>
